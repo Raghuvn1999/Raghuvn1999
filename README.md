@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raghu V N</h1>
 <h3 align="center">SDET | Automation Engineer | AI Enthusiast</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Raghuvn1999&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
@@ -46,14 +46,6 @@
 
 ---
 
-### 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghuvn1999&theme=react-dark"/>
-</p>
-
----
-
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -66,15 +58,6 @@
 
 - AWS Certified
 - Azure-900 Certified
-
----
-
-### 🚀 Featured Projects
-
-<a href="https://github.com/Raghuvn1999/Playwright_Framework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Raghuvn1999&repo=Playwright_Framework&theme=tokyonight" />
-</a>
-
 ---
 
 ### 💡 Quote
