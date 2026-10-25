@@ -1,30 +1,5 @@
-Hi 👋, I'm Raghu V N
-SDET | Automation Engineer |
- 
-
-🌱 Currently learning Advanced Playwright & AI Testing
-
-🔭 Working on QA Automation Frameworks
-
-💬 Ask me about Playwright, Selenium, API Testing, TypeScript & CI/CD
-
-📫 Reach me at raghuvn1999@gmail.com
-
-GitHub Stats
-
-
-GitHub Streak
-
-
-Languages and Tools
-PlaywrightTypeScriptSeleniumJavaREST AssuredPostmanGitGitHub ActionsJenkinsDocker
-
-Featured Projects
-🎭 Playwright Automation Framework
-Readme Card
-
-Activity Graph<h1 align="center">Hi 👋, I'm Raghu V N</h1>
-<h3 align="center">Senior SDET | Playwright Automation Engineer | QAOps Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Raghu V N</h1>
+<h3 align="center">SDET | Automation Engineer | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Raghuvn1999&label=Profile+Views&color=0e75b6&style=flat" />
@@ -36,19 +11,19 @@ Activity Graph<h1 align="center">Hi 👋, I'm Raghu V N</h1>
 
 - 🔭 Working on Playwright Automation Frameworks
 - 🌱 Learning AI-Powered Test Automation
-- 💬 Ask me about Playwright, Selenium, API Testing & CI/CD
-- 📫 Reach me: your-email@gmail.com
+- 💬 Ask me about Playwright, Selenium, API Testing, GitHub Actions - CI/CD
+- 📫 Reach me: raghuvn1999@gmail.com
 - 💼 Open to Senior SDET & Automation Architect opportunities
 
 ---
 
 ### 🌐 Connect With Me
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="www.linkedin.com/in/raghu-vn-1060781b9">
 <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:raghuvn1999@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
 </a>
 
@@ -82,17 +57,15 @@ Activity Graph<h1 align="center">Hi 👋, I'm Raghu V N</h1>
 ### 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=playwright,typescript,java,selenium,git,github,jenkins,docker,postman,vscode,azure" />
+<img src="https://skillicons.dev/icons?i=playwright,typescript,java,selenium,git,github,aws,postman,vscode,azure" />
 </p>
 
 ---
 
 ### 🏆 Certifications
 
-- Playwright Automation
-- Selenium WebDriver
-- API Testing
-- CI/CD & Jenkins
+- AWS Certified
+- Azure-900 Certified
 
 ---
 
